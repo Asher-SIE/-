@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>App需要您的同意,才能访问相机扫描二维码</string>
+<key>NSCameraUsageDescription</key>
+<string>App需要您的同意,才能访问相机扫描二维码</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>App需要您的同意,才能在使用期间访问位置</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>App需要您的同意,才能始终访问位置</string>
