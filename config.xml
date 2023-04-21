@@ -1,7 +1,7 @@
-<widget id="A6136183259540" security="false" version="1.0.0">
+<widget id="A6137546432151" security="false" version="1.0.0">
 	<name>跑跑商户端</name>
 	<description>商家版</description>
-	<author email="" href="https://waimai.sudatc.cn">Hy</author>
+	<author ema			il="" href="https://waimai.sudatc.cn">Hy</author>
 	<content src="index.html"/>
 	<preference name="windowBackground" value="#8BC6AF"/>
 	<preference name="autoLaunch" value="true"/>

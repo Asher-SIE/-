@@ -7,9 +7,11 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "https://1002.yuanmaleyuan.cn/addons/we7_wmall/template/manager/#/pages/order/index?i=1",
-            "webRoot": "${workspaceFolder}"
+    "name": "Launch Chrome against localhost",
+            "url": "https://bmpp.yqhy.vip/app/index.php?i=1&c=entry&ctrl=manage&ac=home&op=index&do=mobile&m=we7_wmall",
+            "webRoot": "${workspaceFolder}",
+        "runtimeExecutable": "D:\\program files\\CHROME\\App\\chrome.exe"
         }
     ]
 }
+               
